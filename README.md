@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-I am new to Git.
+This is my training repository.  You don't really need to look at it.
